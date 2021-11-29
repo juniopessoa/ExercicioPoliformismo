@@ -1,2 +1,2 @@
-# ExercicioPoliformismo
-Exercício de Poliformismo - JAVA
+# ExercicioPolimorfismo
+Exercício de Polimorfismo - JAVA
